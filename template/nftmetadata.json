@@ -1,0 +1,8 @@
+{
+    "name": "MyProject NFT", 
+    "image": "ipfs://...",
+    "attributes": [{
+      "trait": "Type",     
+      "value": "Bronze" 
+    }]
+  }
